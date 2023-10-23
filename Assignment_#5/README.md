@@ -53,7 +53,7 @@ plt.ylabel('Value')
 plt.grid(True)
 plt.show()
 ```
-![TimeSeries Plot](Graphs\TimeSeriesPlotOfUnitsSold.png)
+![TimeSeries Plot](Graphs/TimeSeriesPlotOfUnitsSold.png)
 
 ```
 data_v2 = pd.read_csv('Traindata.csv')
